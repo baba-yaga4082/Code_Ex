@@ -5,7 +5,7 @@ CodeExplainer is a Python tool that analyzes code snippets, identifies structure
 Clone the Repo:
 Clone the repository.
 
-git clone https://github.com/PromtEngineer/PaLM-PDFChat.git
+git clone [(https://github.com/baba-yaga4082/Code_Ex)]
 Environment Setup
 In order to set your environment up to run the code here, first install all requirements:
 
